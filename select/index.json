@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "プラネテス",
+  "base_artist": "seiza",
+  "createdAt": "2025-12-27T05:02:47.565928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プラネテス",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_プラネテス_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プラネテス",
+      "artist": "seiza",
+      "has_synced": true,
+      "path": "select/02_プラネテス_seiza.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プラネテス",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_プラネテス_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プラネテス - Two Drifters",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/04_プラネテス_-_Two_Drifters_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プラネテス",
+      "artist": "seiza",
+      "has_synced": false,
+      "path": "select/pl_01_プラネテス_seiza.txt"
+    }
+  ]
+}
